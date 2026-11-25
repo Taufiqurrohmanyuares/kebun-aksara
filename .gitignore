@@ -18,3 +18,5 @@ out/
 # Media unggahan lokal & log
 media/
 *.log
+
+*.tsbuildinfo
